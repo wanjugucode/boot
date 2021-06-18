@@ -1,0 +1,15 @@
+.card-footer {
+    text-align: center;
+    color: brown;
+}
+
+.card-header {
+    text-align: center;
+    color: brown;
+}
+.card-group{
+    padding: 3%;
+}
+.card{
+    padding: 3%;
+}
